@@ -1,4 +1,4 @@
-# ECHOJinstreamTH
+# instreamTH
 const quizData = [
   {
     question: "เพลงไหนของ Jin ที่ร่วมงานกับวง Coldplay?",
